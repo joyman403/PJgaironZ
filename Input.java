@@ -1,7 +1,9 @@
 import java.io.Console;
 import java.util.Scanner;
 
-public class Inputs{
+// 担当者の名前を書いてください
+
+public class Input{
 public static int getHiddenInput(playerName){
 Console console=System.console()
 String input;
